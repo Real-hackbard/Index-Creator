@@ -22,7 +22,8 @@ If the server is unable to find a file with any of the names listed in its confi
 
 </br>
 
-
+# CSS:
+CSS is designed to enable the [separation of content and presentation](https://en.wikipedia.org/wiki/Separation_of_content_and_presentation), including layout, colors, and fonts. This separation can improve content accessibility, since the content can be written without concern for its presentation; provide more flexibility and control in the specification of presentation characteristics; enable multiple [web pages](https://en.wikipedia.org/wiki/Web_page) to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.
 
 
 
