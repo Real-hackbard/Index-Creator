@@ -10,7 +10,9 @@
 
 </br>
 
+When an [HTTP](https://en.wikipedia.org/wiki/HTTP) client requests a URL that points to a directory structure instead of an actual web page within the directory structure, the [web server](https://en.wikipedia.org/wiki/Web_server) will generally serve a default page, which is often referred to as a main or "index" page.
 
+A common filename for such a page is index.html, but most modern HTTP servers offer a configurable list of filenames that the server can use as an index. If a server is configured to support [server-side scripting](https://en.wikipedia.org/wiki/Server-side_scripting), the list will usually include entries allowing dynamic content to be used as the index page (e.g. ```index.cgi, index.pl, index.php, index.shtml, index.jsp, default.asp```) even though it may be more appropriate to still specify the HTML output (index.html.php or index.html.aspx), as this should not be taken for granted. An example is the popular open source web server [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server), where the list of filenames is controlled by the DirectoryIndex directive in the main server configuration file or in the configuration file for that directory. It is possible to not use file extensions at all, and be neutral to content delivery methods, and set the server to automatically pick the best file through content negotiation.
 
 
 
