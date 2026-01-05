@@ -72,7 +72,7 @@ dd {
 //-->
 ```
 
-
+Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on [Braille-based](https://en.wikipedia.org/wiki/Refreshable_braille_display) tactile devices. CSS also has rules for alternative formatting if the content is accessed on a mobile device.
 
 
 
