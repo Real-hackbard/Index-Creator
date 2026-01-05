@@ -16,6 +16,16 @@ A common filename for such a page is index.html, but most modern HTTP servers of
 
 If the server is unable to find a file with any of the names listed in its configuration, it may either return an error ([usually 403 Index Listing Forbidden](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#403) or [404 Not Found](https://en.wikipedia.org/wiki/HTTP_404)) or generate its own index page listing the files in the directory. Usually this option, often named autoindex, is also configurable
 
+</br>
+
+![IndexCreator](https://github.com/user-attachments/assets/326e1f10-3dcd-493c-b980-6457eccedf80)
+
+</br>
+
+
+
+
+
 
 
 
